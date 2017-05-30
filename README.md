@@ -2,5 +2,5 @@
 
 # Simple Flappy Bird Game with P5.js 
 
-# Demo : 
+Demo : 
 https://codepen.io/shorbagy/pen/QvRWGg
